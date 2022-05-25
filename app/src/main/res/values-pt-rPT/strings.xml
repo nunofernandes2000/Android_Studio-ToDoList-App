@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_insert_name">Por favor, Insira o nome da tarefa</string>
+    <string name="insert_list_name">Insira o nome da tarefa</string>
+    <string name="insert_list_description">Insira a descrição da tarefa</string>
+    <string name="insert_limit_date">Insira a data limite da tarefa</string>
+    <string name="list_of_tasks">Lista de Tarefas</string>
+    <string name="insert">Insira</string>
+    <string name="list_description">Decrição da tarefa</string>
+    <string name="name_list">nome da tarefa</string>
+    <string name="Toast">Alerta</string>
+    <string name="not_defined">não definido</string>
+    <string name="details_of_the_list">detalhes</string>
+    <string name="list_date">data</string>
+    <string name="details_title">detalhes titulo</string>
+</resources>

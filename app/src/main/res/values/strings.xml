@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">ToDoList</string>
+    <string name="please_insert_name">insertName</string>
+    <string name="insert_list_name">Insert list name</string>
+    <string name="insert_list_description">Insert list description</string>
+    <string name="insert_limit_date">insert limit date</string>
+    <string name="list_of_tasks">LIST OF TASKS</string>
+    <string name="insert">Insert</string>
+    <string name="list_description">list description</string>
+    <string name="name_list">name list</string>
+    <string name="list_date">list date</string>
+    <string name="details_of_the_list">Details of the list</string>
+    <string name="not_defined">Not defined</string>
+    <string name="Toast">Please,Insert a new list</string>
+    <string name="details_title">Details</string>
+</resources>
